@@ -22,7 +22,7 @@ Puedes ver mis proyectos aquí mismo en mi perfil de GitHub. Siempre estoy exper
 
 ## 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/alberhy)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/alberhy)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/thoribiod_?utm_source=ig_web_button_share_sheet&igsh=aHNobDQweDE2dWx0)
 
 ---
