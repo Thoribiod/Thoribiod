@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Thoribiod!
+# 👋 ¡Hola, soy Alberhy Toribio!
 
 ## 👨‍💻 Sobre mí
 
